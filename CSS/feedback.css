@@ -1,0 +1,55 @@
+#main{
+    height: 40rem;
+    width:  100%;
+}
+#image{
+    height:40rem;
+    width: 100%;
+    opacity: 0.8;
+    position: absolute;    
+}
+h2{
+    color: rgb(177, 8, 8);
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    padding-top: 10px;
+}
+form{
+    position: relative;
+    text-align: left;
+    margin-left: 30rem;
+}
+input{
+    padding:5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    
+}
+label{
+    font-size:x-large;
+    color: rgb(4, 82, 21);
+    font-family: 'Segoe UI', Geneva,;
+    display: block;
+}
+/* textarea{
+    padding: 5px;
+} */
+footer div{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(134, 130, 130);
+    color: rgb(20, 14, 7);
+}
+ button{
+  height: 2rem;
+  width: 5rem;
+  text-align: center;
+  background-color: rgb(194, 6, 6);
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  border-radius: 5px;
+  margin-left: 11rem;
+  
+} 

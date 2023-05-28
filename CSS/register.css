@@ -1,0 +1,7 @@
+#register{    
+    height: 45rem;
+    display: block;
+    margin: auto;
+    width: 40rem;
+    background-image: linear-gradient(110deg, rgb(11, 11, 161), rgb(105, 2, 105));
+}

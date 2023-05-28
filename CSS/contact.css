@@ -1,0 +1,78 @@
+#main-div{
+    background-color: rgb(221, 238, 240);
+    height: 45rem;
+    width: 100%;
+    /* display: flex; */
+    
+}
+#heading{
+    color: rgb(7, 158, 158);
+    padding: 1rem;
+    font-size: 45px;
+}
+.all{
+    height: 12rem;
+    width: 12rem;
+    background-color: rgb(7, 7, 102);
+    margin: 3rem;
+    display: inline-block;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 1rem;
+    font-size: 4rem;
+    color: whitesmoke;
+}
+.text{
+    font-size: 20px;
+    padding: 10px;
+}
+#form{
+    margin: 2rem;
+    font-size: 20px;
+    color: rgb(7, 158, 158);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+input{
+    border: 0px;
+    border-bottom: 2px solid rgb(110, 91, 91);
+}
+fieldset{
+ margin-top: 5px;
+ margin-left: 50px;
+ margin-right: 5rem;
+ border: 2px solid rgb(133, 117, 117);
+}
+legend{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(7, 158, 158);
+    font-size: larger;
+    font-weight: 600;
+}
+#lower_div{
+    height: 30rem;
+    background-color: rgb(2, 2, 85);
+    padding: 60px;
+    display: inline-flex;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+.notes{
+    height: 20rem;
+    width:  35rem;
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 1.5rem;
+    padding: 15px;
+    font-family: Arimo;
+    line-height: 2rem;
+    margin-left: 15px;
+}
+#map{
+    width: 5px;
+    height: 5px;
+    position: relative;
+    
+}

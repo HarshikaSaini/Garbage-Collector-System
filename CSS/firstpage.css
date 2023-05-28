@@ -1,0 +1,74 @@
+h2{
+    color: rgb(128, 50, 50);
+    font-family: sans-serif;
+    text-align: center;
+    margin: 15px;
+    letter-spacing: 0.2rem;
+}
+.Brief{
+    color: rgb(82, 55, 55);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 15px;
+    font-size: larger;
+    letter-spacing: 0.1rem;
+    line-height: 25px;
+}
+#form{
+    margin:auto;
+    padding: 10px;
+    display: block;
+    color: rgb(5, 70, 90);
+    background-color: rgb(158, 203, 224);
+    width: 25rem;
+    height: 10rem;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#form_design{
+    padding: 4px;
+    margin: auto;
+}
+#button{
+    padding: 3px;
+    background-color: red;
+    font-family:  sans-serif;
+    color: white;
+    letter-spacing: 0.1rem;
+    border-radius: 5px;
+}
+#marq{
+    color: blanchedalmond;
+    background-color:palevioletred;
+    letter-spacing: 0.2rem;
+    margin: 2px;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#sub-div{
+    height: 50rem;
+    /* width: 98.5%; */
+    background-color: rgb(169, 247, 247);
+    padding: 35px;
+    
+}
+.sub_divs{
+    height: 20rem;
+    width: 30rem;
+    display: inline-block;
+    margin: 20px 20px;
+    
+    
+}
+.inner_div img{
+    height: 15rem;
+    width:  30rem;
+    position: relative;
+}
+footer div{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(206, 195, 195);
+    color: rgb(63, 38, 10);
+}

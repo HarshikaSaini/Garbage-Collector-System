@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(211, 241, 239);
+}
+div{
+    border: 2px solid black; 
+    display: block;
+    margin: auto;
+    height: 10rem;
+    width:  60rem;
+    margin-top: 5rem;
+    background-image:linear-gradient(90deg , rgb(5, 177, 5), rgb(255, 142, 37)) ;
+    border-radius: 12px;
+}
+button{
+    margin: auto;
+    display: block;
+    margin-top: 3rem;
+    height: 2rem;
+    width: 12rem;
+    border-radius: 10px;
+    border-color:  yellow;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+a{
+   color: aliceblue;
+   text-decoration: none;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+}
+
